@@ -3,6 +3,7 @@ public class Term2 {
 
 	public static void main(String[] args) {
     	
+		//given numbers
 	    int num1 = 2;
 	    int num2 = 6;
 	        
